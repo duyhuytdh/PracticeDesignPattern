@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c92a0b39-4d10-4ee1-b47b-07a1e93c72ab" name="Default Changelist" comment="" />
+    <list default="true" id="c92a0b39-4d10-4ee1-b47b-07a1e93c72ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ModelDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestDesignPattern/com/company/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestDesignPattern/com/company/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestDesignPattern/com/company/MiniDuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestDesignPattern/com/company/MiniDuckSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MiniDuckSimulator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +24,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xbi1qhdbfEcpEEkDRwjZpD45HD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.MiniDuckSimulator">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -128,25 +144,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1581321617186">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1581330742092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581321617186" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581322282820">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581330742092" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581330844657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581322282820" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581322282819">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581330844657" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581330844657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581322282819" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581322282819">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581330844657" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581330844657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581322282819" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581322282819">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581330844657" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581330844657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581322282819" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581330844657" />
   </component>
 </project>
