@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92a0b39-4d10-4ee1-b47b-07a1e93c72ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WeatherAppTest/src/com/weather/CurrentConditionDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherAppTest/src/com/weather/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherAppTest/src/com/weather/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherAppTest/src/com/weather/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherAppTest/src/com/weather/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherAppTest/src/com/weather/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherAppObserverJavaAPI/src/com/weather/CurrentConditionDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherAppObserverJavaAPI/src/com/weather/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherAppObserverJavaAPI/src/com/weather/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherAppObserverJavaAPI/src/com/weather/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherAppObserverJavaAPI/src/com/weather/WeatherStation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -36,8 +35,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.WeatherStation">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.weather" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WeatherStation (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.weather.Main" />
       <module name="WeatherAppTest" />
@@ -74,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weather.WeatherStation" />
+      <module name="WeatherAppObserverJavaAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.weather.WeatherStation" />
       <module name="WeatherAppTest" />
@@ -92,9 +112,11 @@
       <item itemvalue="Application.MiniDuckSimulator" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.WeatherStation" />
+      <item itemvalue="Application.WeatherStation (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MiniDuckSimulator" />
@@ -127,26 +149,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1582190988628">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1582618259030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582190988628" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1582195440286">
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582618259030" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1582619321237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582195440286" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1582195440286">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582619321237" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582619903699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582195440286" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1582195440286">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582619903699" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582619903698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582195440286" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1582195440286">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582619903698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582619903698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582195440286" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582619903698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582619903698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582619903698" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582195440287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -171,9 +197,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="592" y="222" width="736" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582191177626" />
-    <state x="342" y="140" key="new project wizard" timestamp="1582171132454">
+    <state x="342" y="140" key="new project wizard" timestamp="1582618246760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582171132454" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582618246760" />
   </component>
 </project>
