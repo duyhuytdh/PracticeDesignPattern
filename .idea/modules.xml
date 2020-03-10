@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestDesignPattern.iml" filepath="$PROJECT_DIR$/TestDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeatherAppObserverJavaAPI/WeatherAppObserverJavaAPI.iml" filepath="$PROJECT_DIR$/WeatherAppObserverJavaAPI/WeatherAppObserverJavaAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeatherAppTest/WeatherAppTest.iml" filepath="$PROJECT_DIR$/WeatherAppTest/WeatherAppTest.iml" />
