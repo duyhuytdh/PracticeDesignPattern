@@ -1,9 +1,9 @@
 package pizza.com;
 
-public class NYStyleClamPizza extends Pizza {
+public class NYStylePepperoniPizza extends Pizza {
 
-    public NYStyleClamPizza(){
-        name = "NY Style Sauce and Clam Pizza";
+    public NYStylePepperoniPizza(){
+        name = "NY Style Sauce and Pepperoni Pizza";
         dough = "Thin Crust Dough";
         sauce = "Marinara Sauce";
         toppings.add("Grated Reggiano Cheese");

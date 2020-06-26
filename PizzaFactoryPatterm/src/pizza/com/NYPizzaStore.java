@@ -1,6 +1,6 @@
 package pizza.com;
 
-public class NYStylePizzaStore extends PizzaStore{
+public class NYPizzaStore extends PizzaStore{
     @Override
     protected Pizza createPizza(String type) {
         if (type.equals("cheese")) {
